@@ -11,3 +11,4 @@ The codes related to DeepLearning.AI TensorFlow Developer Specialization of Cour
 ## Course2: Convolutional Neural Networks in TensorFlow:
 &nbsp; <ins> Week1:</ins> Exploring a Larger Dataset, Related codes: [Binary Image Classification with CNNs with a Large Dataset](Course2/Week1/C2W1_Assignment.ipynb)<br /> <br />
 &nbsp; <ins> Week2:</ins> Cats vs Dogs with Data Augmentation, Related codes: [Data Augmentation in Binary Classification](Course2/Week2/C2W2_Assignment.ipynb)<br /> <br />
+&nbsp; <ins> Week3:</ins> Transfer Learning for Better Performance in Classification, Related codes: [Transfer Learning](Course2/Week3/C2W3_Assignment.ipynb)<br /> <br />
